@@ -45,7 +45,7 @@ Actualmente el repositorio cuenta con la siguiente estructura de módulos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/TU_USUARIO/master-desarrollo-web-JS.git
+   git clone https://github.com/jhonmario7/master-desarrollo-web-JS.git
    ```
 2. **Acceder a un módulo específico:**
    ```bash
